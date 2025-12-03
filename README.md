@@ -29,7 +29,6 @@ The goal of this project is to gather, process, and analyze election data to ext
 - Python 3.x  
 - pandas  
 - matplotlib / seaborn (for visualization)  
-- openpyxl (for Excel handling)  
 - requests / BeautifulSoup (for web scraping)  
 
 ## Project Workflow

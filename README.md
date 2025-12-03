@@ -53,4 +53,4 @@ The project produces the following main files:
 
 1. Clone the repository:  
 ```bash
-git clone <repository-url>
+git clone https://github.com/niazstat/ElectionDataAnalysis.git

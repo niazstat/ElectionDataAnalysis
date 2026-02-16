@@ -1,4 +1,4 @@
-# ElectionDataAnalysis
+# Bangladesh 2014 ElectionDataAnalysis
 
 This project collects election data from [Election Commission of Bangladesh](https://www.ecs.gov.bd/page/result-for-12th-national-parliament-election).
 
